@@ -14,6 +14,11 @@
 <br><br>
 
 
+<a href="https://go.crisp.chat/chat/embed/?website_id=439c986c-9891-4f0c-88c2-0dc7538d675d/" target="_blank" rel="noopener noreferrer">
+    خرید از چت آنلاین (اینجا کلیک کنید) 👉
+</a>
+
+
 🔰 خرید از چت آنلاین:
 <br>
 <a href="https://go.crisp.chat/chat/embed/?website_id=439c986c-9891-4f0c-88c2-0dc7538d675d/" target="_blank"> خرید از چت آنلاین (اینجا کلیک کنید) 👉 </a>
