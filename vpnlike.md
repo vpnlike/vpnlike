@@ -14,10 +14,7 @@
 <br><br>
 
 
-🔰 خرید از چت آنلاین:
-<br>
-<a href="https://go.crisp.chat/chat/embed/?website_id=439c986c-9891-4f0c-88c2-0dc7538d675d/" target="_blank"> خرید از چت آنلاین (اینجا کلیک کنید) 👉 </a>
-<br><br>
+
 🔰 خرید از تلگرام:
 <br>
 <a href="https://t.me/vpnlike1?text=سلام%20درخواست%20اکانت%20وی پی ان%20دارم/"  target="_blank"> خرید از تلگرام (اینجا کلیک کنید) 👉 </a>
