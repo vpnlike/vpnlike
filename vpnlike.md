@@ -11,10 +11,13 @@
 سه ماه (نامحدود) = 375 هزار تومان
 <br><br>
 
-🔰 خرید از سایت رسمی:
+🌐 خرید از سایت:
 <br>
-<a href="https://bist1like.shop/ target="_blank"> خرید از تلگرام (اینجا کلیک کنید) 👉 </a>
+<a href="https://bist1like.shop" target="_blank" style="color: #FF3333; text-decoration: none; font-weight: bold;">
+🌍 خرید از سایت (اینجا کلیک کنید)
+</a>
 <br><br>
+
 
 🔰 خرید از تلگرام:
 <br>
