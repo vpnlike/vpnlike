@@ -14,7 +14,7 @@
 🌐 خرید از سایت:
 <br>
 <a href="https://bist1like.shop" target="_blank" style="color: #FF3333; text-decoration: none; font-weight: bold;">
-🌍 خرید از سایت (اینجا کلیک کنید)
+🌍 خرید از سایت (اینجا کلیک کنید) 👉
 </a>
 <br><br>
 
