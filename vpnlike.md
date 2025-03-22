@@ -5,7 +5,6 @@
   ( 50% تخفیف 🎁 فقط امروز )
  
  <h3 > <b>   <br>
-
 🌐 خرید از سایت:
 <br>
 <a href="https://bist2likee.shop" target="_blank" style="color: #FF3333; text-decoration: none; font-weight: bold;">
