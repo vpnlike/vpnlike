@@ -7,7 +7,7 @@
  <h3 > <b>   
 🌐 خرید از سایت:
 <br>
-<a href="https://bist2likee.shop" target="_blank" style="color: #FF3333; text-decoration: none; font-weight: bold;">
+<a href="https://bist3likke.shop" target="_blank" style="color: #FF3333; text-decoration: none; font-weight: bold;">
 🌍 خرید از سایت (اینجا کلیک کنید) 👉
 </a>
 <br><br>
